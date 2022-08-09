@@ -1,4 +1,4 @@
-# selecao Desenvolvedor de Software Escribo teste 01
+# Selecao Desenvolvedor de Software Escribo teste 01
 
 Teste técnico para vaga de Desenvolvedor Flutter Iniciante
 
@@ -13,10 +13,9 @@ Teste técnico para vaga de Desenvolvedor Flutter Iniciante
 ## Como rodar o programa
 - Instalação do dart sdk: 
     - Um pré requisito é a instalação para poder rodar aplicações em dart: https://dart.dev/get-dart
-    - Para verificar se você ja tem o dart SDK ou se a instalação foi feita corretamente, abra o seu prompt de comando ou terminal e digite "dart --version"
+    - Para verificar se você ja tem o dart SDK ou se a instalação foi feita corretamente, abra o seu terminal e digite "dart --version"
 - Rodar o projeto:
     - Clone o projeto
-    - Abra o terminal ou prompt de comando e vá até a raiz do projeto
-    - rodar o seguinte comando no terminal ou prompt de comando: `dart teste_tecnico_01.dart`
-    - Seguir a instrução que aparecerá no terminal ou prompt de comando pedindo para informar o número que deseja testar
-
+    - Abra o terminal e vá até a raiz do projeto
+    - rodar o seguinte comando no terminal: `dart teste_tecnico_01.dart`
+    - Seguir a instrução que aparecerá no terminal pedindo para informar o número que deseja testar
